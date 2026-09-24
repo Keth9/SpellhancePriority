@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Spellhance Priority HUD
+## Notes: HUD avanzado Spellhance: 5 recomendaciones, AUTO ST/AoE, MWx5, totems, shocks, cortes y entrenamiento.
+## Author: ChatGPT
+## Version: 1.2.0
+## SavedVariables: SpellhancePriorityDB
+
+SpellhancePriority.lua
