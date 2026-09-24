@@ -1,6 +1,6 @@
 Spellhance Priority HUD v1.2.0
 ================================
-World of Warcraft WotLK 3.3.5a / Warmane
+World of Warcraft WotLK 3.3.5a 
 Compatible con cliente en español: usa IDs internos y nombres localizados por GetSpellInfo().
 
 INSTALACION / ACTUALIZACION
@@ -37,7 +37,7 @@ QUE HACE v1.2
 - Modo entrenamiento: al terminar combate resume seguimiento de prioridad, MWx5,
   tiempo capado en MW, tiempo sin Magma, tiempo sin FS y cortes realizados.
 - Perfiles por boss/objetivo para recordar ST/AoE, FE, Corte y Fire Nova.
-- /spr debug muestra exactamente qué está leyendo el addon para diagnosticar Warmane.
+- /spr debug muestra exactamente qué está leyendo el addon para diagnosticar.
 
 PRIORIDAD SPELLHANCE BASE
 1. Stormstrike si falta tu debuff.
